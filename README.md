@@ -1,2 +1,3 @@
-# node_torrents
-Nodejs Torrents
+# torrent_search
+
+a [Sails](http://sailsjs.org) application
